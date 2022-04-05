@@ -1,0 +1,75 @@
+body
+{
+    font-family: 'Oswald', sans-serif;
+    background-color: rgb(226, 223, 223);
+    margin-top: 70px;
+}
+
+#enlace1
+{
+    color: rgb(0, 0, 0);
+}
+
+#imagenhtml
+{
+    margin-top: 0px;
+}
+
+#testimonial
+{
+    background-color: #f1f1f1;
+    padding: 50px 0 30px 0;
+    text-align: center;
+    margin-top: 40px;
+}
+
+#info-js
+{
+    margin-top: 200px;
+}
+
+#imagen-js
+{
+    margin-left: 3cm;
+    margin-top: -3cm;
+}
+
+#info-csharp
+{
+    margin-top: 150px;
+}
+
+#imagen-csharp
+{
+    margin-left: 50px;
+}
+
+#info-bs
+{
+    margin-left: 50px;
+    margin-top: 170px;
+}
+
+#imagen-bs
+{
+    margin-top: -200px
+}
+
+#imagen-cafe
+{
+    margin-top: 50px;
+    margin-left: 4cm;
+    
+}
+
+#info-cafe
+{
+    margin-top: 230px;
+    margin-left: 4cm;
+}
+
+#contact
+{
+    align-items: center;
+}
+
